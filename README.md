@@ -1,1 +1,1 @@
-# Pairs-algo
+# Pairs-algo It counts how many pairs of numbers in the list have a difference exactly equal to k. The function pairs uses a HashSet for quick lookups, checking for each number if another number that is k greater exists in the list.
